@@ -6,7 +6,7 @@ github_username:  digitalizedplanning
 
 header_pages:
  - about.markdown
- - contact.markdown
+ - resources.markdown
 
 # Build settings
 theme: minima
