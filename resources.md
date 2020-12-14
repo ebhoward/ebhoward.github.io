@@ -4,6 +4,9 @@ title: Resources
 ---
 
 ### Quantum IPMP Tools
+for industrial park layout design
+
+
 1. Download the tools [here](https://github.com/ebhoward/QuantumIPMPTools).
 2. At the download site, click on the green Code button and then Download ZIP.
 3. Follow the installation and usage instructions in the README at the download site.
