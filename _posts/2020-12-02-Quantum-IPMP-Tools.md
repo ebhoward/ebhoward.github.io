@@ -6,7 +6,7 @@ author:
 - Ebenezer Howard
 ---
 
-[QGIS](https://www.qgis.org) is a free, open sourced Geographic Information System that is widely used throughout the world.
+[QGIS](https://www.qgis.org) is a free, open sourced Geographic Information System software that is widely used throughout the world.
 
 If you are not already using QGIS, download it today and start learning!  
 
