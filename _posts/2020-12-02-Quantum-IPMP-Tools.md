@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quantum IPMP Tools"
+title: "Industrial Park Layout Design Tools"
 categories: general
 author:
 - 
@@ -16,6 +16,6 @@ If you are not already using QGIS, download it today and start learning!
 
 I have developed a set of Quantum IPMP Tools that can be accessed via the QGIS Processing Toolbox Scripts.  These tools support planners in designing industrial park layouts in hilly terrain.
 
-More information is available [here](/resources.md).
+More information is available [here](/resources.html).
 
-You can download the Quantum IPMP Tools from [Github](https://github.com/ebhoward/QuantumIPMPTools)
+You can download the Quantum IPMP Tools from [Github](https://github.com/ebhoward/QuantumIPMPTools).
