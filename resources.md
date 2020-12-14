@@ -3,4 +3,4 @@ layout: page
 title: Resources
 ---
 
-Quantum IPMP Tools Documentation
+[Quantum IPMP Tools Documentation](https://github.com/ebhoward/QuantumIPMPTools/README.md)
