@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tools Documentation
-permalink: /resources/ipmp
+permalink: /resources
 ---
 
 Node and segment from road center line
