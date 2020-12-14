@@ -3,6 +3,6 @@ layout: page
 title: Resources
 ---
 
-[Quantum IPMP Tools README](/resources/ipmp/README.html)
+[Quantum IPMP Tools README](/resources/ipmp-README.html)
 <br>
-[Tools Documentation](/resources/ipmp/documentation.html)
+[Tools Documentation](/resources/ipmp-documentation.html)
