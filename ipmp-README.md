@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Quantum IPMP Tools README
-permalink: /resources/ipmp
+permalink: /resources
 ---
 
 
