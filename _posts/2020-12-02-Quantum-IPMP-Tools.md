@@ -2,8 +2,8 @@
 layout: post
 title: "Industrial Park Layout Design Tools"
 categories: general
-author:
-- 
+author: 
+- Ebenezer Howard
 ---
 
 [QGIS](https://www.qgis.org) is a free, open sourced Geographic Information System that is widely used throughout the world.
