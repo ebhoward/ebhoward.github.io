@@ -1,9 +1,6 @@
-
-
 title: DigitalizedPlanning
 email: digitalizedplanning@gmail.com
-description: > # this means to ignore newlines until "show_excerpts:"
-The Digital Future of Planning
+description: > The Digital Future of Planning
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: "" # the subpath of your site, e.g. 
 twitter_username: digitalizedplanning
