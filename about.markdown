@@ -11,9 +11,7 @@ This blog has been created to for planners, related professionals, government of
 
 Enjoy!
 
-
-
-
+<br><br><br>
 
 This blog is still in the testing stage.
 Temporary email: sirebenezerhoward@gmail.com
