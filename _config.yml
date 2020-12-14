@@ -5,8 +5,8 @@ twitter_username: digitalplanning
 github_username:  ebhoward
 
 header_pages:
- - about.markdown
- - resources.markdown
+ - about.md
+ - resources.md
 
 # Build settings
 theme: minima
