@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Hi! I'm Ong See Hai.
+Hi! I'm Ebenezer Howard.
 
 I have thirty years' experience in urban planning, masterplanning, business consulting and software development with projects around the world.
 
@@ -11,4 +11,9 @@ This blog has been created to for planners, related professionals, government of
 
 Enjoy!
 
-email: digitalizedplanning@gmail.com
+
+
+
+
+This blog is still in the testing stage.
+Temporary email: sirebenezerhoward@gmail.com
