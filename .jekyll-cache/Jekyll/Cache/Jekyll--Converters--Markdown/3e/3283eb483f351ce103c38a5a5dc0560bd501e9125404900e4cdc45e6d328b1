@@ -1,0 +1,33 @@
+I"0<h3 id="pre-requisites">Pre-requisites</h3>
+<p>You need to be familiar with using QGIS.
+You need to have QGIS 3.16 installed.<br />
+<!-- Additionally, install the Qgis2threejs plugin --></p>
+
+<h3 id="installation">Installation</h3>
+<ol>
+  <li>
+    <p>Download all the .py files and copy to the QGIS Processing Scripts folder.  You can check the location of the Scripts folder as follows:</p>
+
+    <p>QGIS &gt;Setings &gt;Options &gt;Processing &gt;Scripts</p>
+
+    <p>If the folder does not exist, create it by typing in your desired folder.</p>
+  </li>
+  <li>
+    <p>Create and save a new QGIS Project.  Download and copy qsettings and all its files into the project folder.  You can check the location of the project folder as follows:
+ QGIS &gt;Project &gt;Properties &gt;Variables &gt;Project &gt;project_folder</p>
+  </li>
+  <li>
+    <p>Optional: click on the + button at the bottom right and add a new variable project_font_size.  Type in your desired size - for example, 8, or 14 et cetera.</p>
+  </li>
+  <li>
+    <p>Download and copy samples and all its files into the project folder.  Drag and drop the files into QGIS.</p>
+  </li>
+</ol>
+
+<h3 id="using-the-quantumipmptools">Using the QuantumIPMPTools</h3>
+<ol>
+  <li>The Quantum IPMP Tools are available from:
+ QGIS &gt; Processing &gt;Toolbox &gt;Scripts</li>
+</ol>
+
+:ET

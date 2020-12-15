@@ -1,11 +1,11 @@
 title: DigitalPlanning
 email: digitalplanning@gmail.com
-baseurl: "" # the subpath of your site, e.g. 
+
 twitter_username: digitalplanning
 github_username:  ebhoward
 
 header_pages:
- - about.md
+ - about2.md
  - resources.md
 
 # Build settings

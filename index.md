@@ -4,8 +4,8 @@ layout: home
 ---
 
 
-<img src="/assets/img/bg-home.jpg">
-### Digitalization For Sustainable Development
+
+### Digital Planning Tools
 <br>
 
 

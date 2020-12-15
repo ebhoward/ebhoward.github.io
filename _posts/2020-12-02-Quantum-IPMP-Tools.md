@@ -1,20 +1,15 @@
 ---
 layout: post
-title: "Industrial Park Layout Design Tools"
-categories: general
+title: "Tools For Industrial Park Layout Design"
+categories: software
 author: 
-- Ebenezer Howard
+-
 ---
 
-[QGIS](https://www.qgis.org) is a free, open sourced Geographic Information System software that is widely used throughout the world.
-
-If you are not already using QGIS, download it today and start learning!  
-
-<br> <br>
 
 ### Quantum IPMP Tools
 
-I have developed a set of Quantum IPMP Tools that can be accessed via the QGIS Processing Toolbox Scripts.  These tools support planners in designing industrial park layouts in hilly terrain.
+These are QGIS Processing Toolbox Scripts that can be used for layout design work for industrial park masterplanning, especially where the site is hilly.
 
 More information is available [here](/resources.html).
 
