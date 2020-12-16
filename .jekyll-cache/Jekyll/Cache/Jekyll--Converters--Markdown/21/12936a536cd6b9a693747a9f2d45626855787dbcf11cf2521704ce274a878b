@@ -1,10 +1,11 @@
-<p>Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.</p>
+I"A<p>Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.</p>
 
 <p>Frequently, the development concept is to level an entire hilly site into one or several platforms. A very large volume of earthworks is involved and earthworks costs may render the project financially infeasible.</p>
 
-<p><img src="refineria.jpg" alt="" /></p>
-
-<p>An alternative approach is to cut many smaller platforms into the terrain, minimizing the amount of earthworks.  This is advantageous on many grounds, including:</p>
+<p><img src="/assets/img/refineria.jpg" alt="" />
+<br /> Source: rdp.ec
+<br />
+An alternative approach is to cut many smaller platforms into the terrain, minimizing the amount of earthworks.  This is advantageous on many grounds, including:</p>
 <ul>
   <li>substantially lower costs, with better financial impacts
     <ul>
@@ -19,9 +20,10 @@
   <li>phased development flexibility as smaller platforms can be created in tandem with market demand</li>
 </ul>
 
-<p><img src="needham.jpg" alt="" /></p>
-
-<p>Relatively fewer planners have the skills to lay out and evaluate such terrain-aligned industrial subdivision at the masterplanning stage.  There is also a lack of software tools for such masterplanning work.  Engineering software such as AutoCAD Civil are intended for detailed engineering design of roads and land platforms.  At the masterplanning stage, the key objectives are to generate and evaluate a large number of possible alternative layouts before narrowing down to a final optimal layout.</p>
+<p><img src="/assets/img/needham.jpg" alt="" />
+<br /> Source: thecenteratneedhamranch.com
+<br />
+Relatively fewer planners have the skills to lay out and evaluate such terrain-aligned industrial subdivision at the masterplanning stage.  There is also a lack of software tools for such masterplanning work.  Engineering software such as AutoCAD Civil are intended for detailed engineering design of roads and land platforms.  At the masterplanning stage, the key objectives are to generate and evaluate a large number of possible alternative layouts before narrowing down to a final optimal layout.</p>
 
 <p>3D AutoCAD or Sketchup software with terrain loaded could, in theory, be used for layout design.  However, the weak terrain handling capabilities in these software will make the task unenviable.  Geographic information systems software such as ArcGIS or QGIS are far superior in handling terrain data. However, using the primitive tools in these software for layout design work means a relatively arduous masterplanning process.</p>
 
@@ -39,3 +41,4 @@
 
 <p>I hope that many planners and related professionals will be able to benefit from using these tools to design terrain-aligned industrial park layouts.</p>
 
+:ET

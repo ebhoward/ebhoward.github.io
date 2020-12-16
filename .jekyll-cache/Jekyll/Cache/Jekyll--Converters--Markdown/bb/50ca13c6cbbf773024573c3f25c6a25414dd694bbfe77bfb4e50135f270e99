@@ -1,0 +1,20 @@
+I"©<h2 id="quantum-ipmp-tools">Quantum IPMP Tools</h2>
+<p>Quantum IPMP Tools are software tools that support industrial park layout design work.</p>
+
+<iframe src="https://onedrive.live.com/embed?cid=F7621C40D90B9733&amp;resid=F7621C40D90B9733%21139509&amp;authkey=AHgfGi_Xc4cJ-qw&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+<p>The tools are QGIS Processing Toolbox scripts and are free and open-source software.</p>
+
+<h3 id="installation">Installation</h3>
+<ol>
+  <li>Download the tools at  <a href="https://github.com/ebhoward/QuantumIPMPTools">Github</a>.</li>
+  <li>At the Github download site, click on the green Code button and then Download ZIP.</li>
+  <li>Follow the installation and usage instructions in the README at the download site.</li>
+</ol>
+
+<h3 id="documentation">Documentation</h3>
+<ol>
+  <li>User Guide for the Quantum IPMP Tools is at the  <a href="https://github.com/ebhoward/QuantumIPMPTools/wiki">wiki</a>  at the Github download site.</li>
+</ol>
+
+:ET

@@ -1,16 +1,20 @@
 ---
 layout: post
-title: "Tools For Industrial Masterplanning in Hilly Sites"
-categories: software
-author: Ong See Hai
--
+title: "Industrial Park Layout Design Tools"
+categories: general
+author: 
+- Ong See Hai
 ---
 
 Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.
 
 Frequently, the development concept is to level an entire hilly site into one or several platforms. A very large volume of earthworks is involved and earthworks costs may render the project financially infeasible. 
 
-![](refineria.jpg)
+<br>
+![](/assets/img/refineria.jpg)
+<br> 
+Source: rdp.ec
+<br>
 
 An alternative approach is to cut many smaller platforms into the terrain, minimizing the amount of earthworks.  This is advantageous on many grounds, including:
 - substantially lower costs, with better financial impacts
@@ -19,7 +23,10 @@ An alternative approach is to cut many smaller platforms into the terrain, minim
 	- lesser carbon emission with reduced earthworks volume
 - phased development flexibility as smaller platforms can be created in tandem with market demand
 
-![](needham.jpg)
+<br>
+![](/assets/img/needham.jpg)
+<br> Source: thecenteratneedhamranch.com
+<br>
 
 Relatively fewer planners have the skills to lay out and evaluate such terrain-aligned industrial subdivision at the masterplanning stage.  There is also a lack of software tools for such masterplanning work.  Engineering software such as AutoCAD Civil are intended for detailed engineering design of roads and land platforms.  At the masterplanning stage, the key objectives are to generate and evaluate a large number of possible alternative layouts before narrowing down to a final optimal layout.
 
@@ -27,15 +34,15 @@ Relatively fewer planners have the skills to lay out and evaluate such terrain-a
 
 Arising from the experience gained in a project to re-design a terrain-aligned layout for an 800-hectare industrial site, I have developed a set of software tools to support and improve such masterplanning work.
 
-These tools are based on QGIS - a free, open-source Geographic Information System software that is widely used throughout the world.  You can download [QGIS here](https://qis.org).
+These tools are based on QGIS - a free, open-source Geographic Information System software that is widely used throughout the world.  You can download [QGIS here](https://qgis.org).
 
 
 
 ### Quantum IPMP Tools
 
-Quantum IPMP Tools are QGIS Processing Toolbox Scripts that can be used to support layout design work for industrial park masterplanning, especially where the site is hilly.
+Quantum IPMP Tools are [QGIS Processing Toolbox Scripts](https://docs.qgis.org/3.16/en/docs/user_manual/processing/toolbox.html) that can be used to support layout design work for industrial park masterplanning, especially where the site is hilly.
 
-More information is available [here](/resources.html).
+More information on download, installation and using the Tools is available [here](/resources.html).
 
 You can download the Quantum IPMP Tools from [Github](https://github.com/ebhoward/QuantumIPMPTools). Quantum IPMP Tools is a free and open-source software.
 

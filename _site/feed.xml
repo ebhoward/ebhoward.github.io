@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-16T19:42:00+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DigitalPlanning</title><entry><title type="html"></title><link href="http://localhost:4000/2020/12/16/2020-12-02-Tools-for-industrial-layout-design.html" rel="alternate" type="text/html" title="" /><published>2020-12-16T19:42:00+08:00</published><updated>2020-12-16T19:42:00+08:00</updated><id>http://localhost:4000/2020/12/16/2020-12-02-Tools-for-industrial-layout-design</id><content type="html" xml:base="http://localhost:4000/2020/12/16/2020-12-02-Tools-for-industrial-layout-design.html">&lt;p&gt;Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-16T20:23:42+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DigitalPlanning</title><entry><title type="html">Industrial Park Layout Design Tools</title><link href="http://localhost:4000/general/2020/12/02/Tools-for-industrial-layout-design.html" rel="alternate" type="text/html" title="Industrial Park Layout Design Tools" /><published>2020-12-02T00:00:00+08:00</published><updated>2020-12-02T00:00:00+08:00</updated><id>http://localhost:4000/general/2020/12/02/Tools-for-industrial-layout-design</id><content type="html" xml:base="http://localhost:4000/general/2020/12/02/Tools-for-industrial-layout-design.html">&lt;p&gt;Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.&lt;/p&gt;
 
 &lt;p&gt;Frequently, the development concept is to level an entire hilly site into one or several platforms. A very large volume of earthworks is involved and earthworks costs may render the project financially infeasible.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;refineria.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/refineria.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt; 
+Source: rdp.ec
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;An alternative approach is to cut many smaller platforms into the terrain, minimizing the amount of earthworks.  This is advantageous on many grounds, including:&lt;/p&gt;
 &lt;ul&gt;
@@ -19,7 +23,10 @@
   &lt;li&gt;phased development flexibility as smaller platforms can be created in tandem with market demand&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&quot;needham.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/img/needham.jpg&quot; alt=&quot;&quot; /&gt;
+&lt;br /&gt; Source: thecenteratneedhamranch.com
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;Relatively fewer planners have the skills to lay out and evaluate such terrain-aligned industrial subdivision at the masterplanning stage.  There is also a lack of software tools for such masterplanning work.  Engineering software such as AutoCAD Civil are intended for detailed engineering design of roads and land platforms.  At the masterplanning stage, the key objectives are to generate and evaluate a large number of possible alternative layouts before narrowing down to a final optimal layout.&lt;/p&gt;
 
@@ -27,14 +34,14 @@
 
 &lt;p&gt;Arising from the experience gained in a project to re-design a terrain-aligned layout for an 800-hectare industrial site, I have developed a set of software tools to support and improve such masterplanning work.&lt;/p&gt;
 
-&lt;p&gt;These tools are based on QGIS - a free, open-source Geographic Information System software that is widely used throughout the world.  You can download &lt;a href=&quot;https://qis.org&quot;&gt;QGIS here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;These tools are based on QGIS - a free, open-source Geographic Information System software that is widely used throughout the world.  You can download &lt;a href=&quot;https://qgis.org&quot;&gt;QGIS here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;quantum-ipmp-tools&quot;&gt;Quantum IPMP Tools&lt;/h3&gt;
 
-&lt;p&gt;Quantum IPMP Tools are QGIS Processing Toolbox Scripts that can be used to support layout design work for industrial park masterplanning, especially where the site is hilly.&lt;/p&gt;
+&lt;p&gt;Quantum IPMP Tools are &lt;a href=&quot;https://docs.qgis.org/3.16/en/docs/user_manual/processing/toolbox.html&quot;&gt;QGIS Processing Toolbox Scripts&lt;/a&gt; that can be used to support layout design work for industrial park masterplanning, especially where the site is hilly.&lt;/p&gt;
 
-&lt;p&gt;More information is available &lt;a href=&quot;/resources.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More information on download, installation and using the Tools is available &lt;a href=&quot;/resources.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;You can download the Quantum IPMP Tools from &lt;a href=&quot;https://github.com/ebhoward/QuantumIPMPTools&quot;&gt;Github&lt;/a&gt;. Quantum IPMP Tools is a free and open-source software.&lt;/p&gt;
 
-&lt;p&gt;I hope that many planners and related professionals will be able to benefit from using these tools to design terrain-aligned industrial park layouts.&lt;/p&gt;</content><author><name></name></author></entry></feed>
+&lt;p&gt;I hope that many planners and related professionals will be able to benefit from using these tools to design terrain-aligned industrial park layouts.&lt;/p&gt;</content><author><name>[&quot;Ong See Hai&quot;]</name></author><category term="general" /><summary type="html">Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.</summary></entry></feed>
