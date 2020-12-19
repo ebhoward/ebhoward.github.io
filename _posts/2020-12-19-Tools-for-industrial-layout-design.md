@@ -34,17 +34,17 @@ Relatively fewer planners have the skills to lay out and evaluate such terrain-a
 
 Arising from the experience gained in a project to re-design a terrain-aligned layout for an 800-hectare industrial site, I have developed a set of software tools to support and improve such masterplanning work.
 
-These tools are based on QGIS - a free, open-source Geographic Information System software that is widely used throughout the world.  You can download [QGIS here](https://qgis.org).
+These tools are now available to run on QGIS - a free, open-source Geographic Information System software that is widely used throughout the world.  You can download [QGIS here](https://qgis.org).
 
 
 
-### Quantum IPMP Tools
+### IMP Tools
 
-Quantum IPMP Tools are [QGIS Processing Toolbox Scripts](https://docs.qgis.org/3.16/en/docs/user_manual/processing/toolbox.html) that can be used to support layout design work for industrial park masterplanning, especially where the site is hilly.
+IMP Tools are now available as [QGIS Processing Toolbox Scripts](https://docs.qgis.org/3.16/en/docs/user_manual/processing/toolbox.html).
 
 More information on download, installation and using the Tools is available [here](/resources.html).
 
-You can download the Quantum IPMP Tools from [Github](https://github.com/ebhoward/QuantumIPMPTools). Quantum IPMP Tools is a free and open-source software.
+You can download the IMP Tools from [Github](https://github.com/ebhoward/QgisIMPTools).  IMP Tools as QGIS Processing Toolbox scripts are a free and open-source software.
 
 I hope that many planners and related professionals will be able to benefit from using these tools to design terrain-aligned industrial park layouts.
 
