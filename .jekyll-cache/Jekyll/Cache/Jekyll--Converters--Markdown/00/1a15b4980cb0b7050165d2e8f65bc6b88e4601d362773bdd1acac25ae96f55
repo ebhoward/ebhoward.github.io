@@ -1,4 +1,4 @@
-I"a<p>Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.</p>
+I"‚<p>Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.</p>
 
 <p>Frequently, the development concept is to level an entire hilly site into one or several platforms. A very large volume of earthworks is involved and earthworks costs may render the project financially infeasible.</p>
 
@@ -34,15 +34,15 @@ Source: rdp.ec
 
 <p>Arising from the experience gained in a project to re-design a terrain-aligned layout for an 800-hectare industrial site, I have developed a set of software tools to support and improve such masterplanning work.</p>
 
-<p>These tools are based on QGIS - a free, open-source Geographic Information System software that is widely used throughout the world.  You can download <a href="https://qgis.org">QGIS here</a>.</p>
+<p>These tools are now available to run on QGIS - a free, open-source Geographic Information System software that is widely used throughout the world.  You can download <a href="https://qgis.org">QGIS here</a>.</p>
 
-<h3 id="quantum-ipmp-tools">Quantum IPMP Tools</h3>
+<h3 id="imp-tools">IMP Tools</h3>
 
-<p>Quantum IPMP Tools are QGIS Processing Toolbox Scripts that can be used to support layout design work for industrial park masterplanning, especially where the site is hilly.</p>
+<p>IMP Tools are now available as <a href="https://docs.qgis.org/3.16/en/docs/user_manual/processing/toolbox.html">QGIS Processing Toolbox Scripts</a>.</p>
 
-<p>More information is available <a href="/resources.html">here</a>.</p>
+<p>More information on download, installation and using the Tools is available <a href="/resources.html">here</a>.</p>
 
-<p>You can download the Quantum IPMP Tools from <a href="https://github.com/ebhoward/QuantumIPMPTools">Github</a>. Quantum IPMP Tools is a free and open-source software.</p>
+<p>You can download the IMP Tools from <a href="https://github.com/ebhoward/QgisIMPTools">Github</a>.  IMP Tools as QGIS Processing Toolbox scripts are a free and open-source software.</p>
 
 <p>I hope that many planners and related professionals will be able to benefit from using these tools to design terrain-aligned industrial park layouts.</p>
 
