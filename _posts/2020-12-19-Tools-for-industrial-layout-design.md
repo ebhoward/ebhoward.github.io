@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Industrial Park Layout Design Tools"
-categories: general
+categories: tools
 author: 
 - Ong See Hai
 ---
