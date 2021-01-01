@@ -1,4 +1,173 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-12-21T18:47:59+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DigitalPlanning</title><entry><title type="html">Industrial Park Layout Design Tools</title><link href="http://localhost:4000/general/2020/12/19/Tools-for-industrial-layout-design.html" rel="alternate" type="text/html" title="Industrial Park Layout Design Tools" /><published>2020-12-19T00:00:00+08:00</published><updated>2020-12-19T00:00:00+08:00</updated><id>http://localhost:4000/general/2020/12/19/Tools-for-industrial-layout-design</id><content type="html" xml:base="http://localhost:4000/general/2020/12/19/Tools-for-industrial-layout-design.html">&lt;p&gt;Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-01-01T14:01:14+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DigitalPlanning</title><entry><title type="html">Masterplanning with IMP Tools</title><link href="http://localhost:4000/tools/2020/12/25/Masterplanning-with-IMP-Tools.html" rel="alternate" type="text/html" title="Masterplanning with IMP Tools" /><published>2020-12-25T00:00:00+08:00</published><updated>2020-12-25T00:00:00+08:00</updated><id>http://localhost:4000/tools/2020/12/25/Masterplanning-with-IMP-Tools</id><content type="html" xml:base="http://localhost:4000/tools/2020/12/25/Masterplanning-with-IMP-Tools.html">&lt;p&gt;Industrial park master planning involves several stages of work:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Planning Parameters Specification&lt;/li&gt;
+  &lt;li&gt;Existing Conditions Analysis&lt;/li&gt;
+  &lt;li&gt;Concept Formulation&lt;/li&gt;
+  &lt;li&gt;Concept Evaluation&lt;/li&gt;
+  &lt;li&gt;Concept Finalization&lt;/li&gt;
+  &lt;li&gt;Report Production&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;analysis-and-parameters&quot;&gt;Analysis and Parameters&lt;/h3&gt;
+&lt;p&gt;The first two stages of work are critically important in the masterplanning of industrial parks. The aims are:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;to firm up the type and scale of the envisaged industrial park landuses and facilities&lt;/li&gt;
+  &lt;li&gt;to analyze the suitability of the existing conditions for the envisaged development and to identify any mitigating measures and infrastructure enhancements that would be necessary&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sufficient time and manpower should be allocated to these stages.  The experience and skills of experienced planners are essential to ensure high quality analysis and specification work.  Even with artificial intelligence in future work digitalization, it will very difficult to replace the role of skilled and experienced planners for many of the tasks in these two initial work stages.&lt;/p&gt;
+
+&lt;p&gt;Input for this stage could be in the form of a written design brief, and/or verbal discussions with the client on their vision, target clients and desired concepts for the proposed development.&lt;/p&gt;
+
+&lt;p&gt;Usually, a market positioning study would have been completed before the masterplanning assignment.  The analysis and recommendations from the market positioning study could provide a firm basis for working out the planning parameters.
+For instance, in the project providing the basis for the &lt;a href=&quot;/resources.html&quot;&gt;IMP Tools Tutorial&lt;/a&gt;, some of the key parameters firmed up in the first two stages of work include:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Large land plots (at least 40 hectares) targeting foreign chemical producers and automotive manufacturers&lt;/li&gt;
+  &lt;li&gt;Land plots of around 20 hectares targeting local construction material and seafood processing enterprises, based on existing industrial development trends in the surrounding area&lt;/li&gt;
+  &lt;li&gt;Road connection points to a future port and a regional toll highway&lt;/li&gt;
+  &lt;li&gt;Separation buffers between the proposed industrial development sand surrounding villages&lt;/li&gt;
+  &lt;li&gt;Drainage channels to divert stormwater from the future industrial park and mitigate flooding in the surrounding areas&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;concepts&quot;&gt;Concepts&lt;/h3&gt;
+&lt;p&gt;The ultimate aim is to create the optimal layout for the proposed industrial park, that satisifes all the planning parameters (as well as other broader implicit goals such as sustainability and complementarity with the surrounding communities) &lt;em&gt;at the lowest development cost&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Alternative layout designs should be formulated, evaluated and compared.  The best of these alternatives can be selected for further improvement as often the evaluation process for the different designs reveals new and valuable insights.&lt;/p&gt;
+
+&lt;p&gt;The design process typically evolves from initial concept to final design through a process of refinement and engagement with the client.  This process must be applied to the formulation of all the alternative layouts, at least up to an intermediate evaluation presentation and discussion with the client.&lt;/p&gt;
+
+&lt;p&gt;It is easy to understand why many planners are loathe to provide multiple alternative layouts. In many masterplanning projects, time and budget are under-allocated for analysis and layout work.  Given short masterplanning project durations, a relatively high proportion of time is allocated to ensure the completion of time-consuming graphic illustrations and infrastructure schemas.   This is unfortunate, as the analysis and alternative layout evaluation stages are most critical in delivering an optimal design with significant financial, social and environmental impacts.&lt;/p&gt;
+
+&lt;h3 id=&quot;imp-tools&quot;&gt;IMP Tools&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;/resources.html&quot;&gt;IMP Tools&lt;/a&gt; support planners designing alternative layouts, especially for industrial sites in hilly terrain.   These tools automate some of the most time-consuming and computation-intensive design tasks such as creating road casings, adjusting road gradients over a network, calculating cut-and-fill earthworks volume, adjusting platform and road access point elevations etc. Work that usually take weeks can now be done in minutes or hours.  Within a short period of time, many alternative layouts can be developed, evaluated and compared.&lt;/p&gt;
+
+&lt;p&gt;A quick three-dimensional visualization tool shows the road gradients, platform elevation and slopes generated.  This visualization facilitates presentation and discussion between the planner and the client.  By exploring the quick 3D model the planner can better appreciate the physical environment formed by the roads, slopes and platforms and draw implications for urban design, truck movement, drainage and so forth.&lt;/p&gt;
+
+&lt;h3 id=&quot;alternative-layouts&quot;&gt;Alternative Layouts&lt;/h3&gt;
+&lt;p&gt;Three initial layouts (B2, G2 and T2) from the &lt;a href=&quot;/resources.html&quot;&gt;Tutorial&lt;/a&gt; project are illustrated below.  The platforms, slopes and roads have been created with IMP Tools from initial two-dimensional line drawings.&lt;/p&gt;
+
+&lt;p&gt;Earthworks volumes have been estimated with IMP Tools and provide a first-cut appreciation of the scale and cost of earthworks involved.&lt;/p&gt;
+
+&lt;table width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+		&lt;td width=&quot;48%&quot;&gt;
+			&lt;img src=&quot;/assets/img/Picture1.png&quot; alt=&quot;B2&quot; /&gt;
+			&lt;figcaption&gt; Layout B2 &lt;/figcaption&gt;
+		&lt;/td&gt;
+		&lt;td width=&quot;48%&quot;&gt;
+			&lt;img src=&quot;/assets/img/Picture2.png&quot; alt=&quot;G2&quot; /&gt;
+			&lt;figcaption&gt; Layout G2 &lt;/figcaption&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td width=&quot;48%&quot;&gt;
+			&lt;img src=&quot;/assets/img/Picture3.png&quot; alt=&quot;T2&quot; /&gt;
+			&lt;figcaption&gt; Layout T2 &lt;/figcaption&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+    &lt;tr&gt;
+        &lt;td width=&quot;16%&quot;&gt;Layout&lt;/td&gt;
+        &lt;td width=&quot;28%&quot;&gt;B2&lt;/td&gt;
+        &lt;td width=&quot;28%&quot;&gt;G2&lt;/td&gt;
+        &lt;td width=&quot;28%&quot;&gt;T2&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Concept&lt;/td&gt;
+        &lt;td&gt;Fewer large platforms&lt;/td&gt;
+        &lt;td&gt;Platform and elevation aligned with terrain &lt;/td&gt;
+        &lt;td&gt;East-west orientation&lt;/td&gt;
+    &lt;/tr&gt;
+	    &lt;tr&gt;
+        &lt;td&gt;Earthworks volume&lt;/td&gt;
+        &lt;td&gt;51 million cubic meters&lt;/td&gt;
+        &lt;td&gt;52 million cubic meters&lt;/td&gt;
+        &lt;td&gt;59 million cubic meters&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;Area&lt;/td&gt;
+        &lt;td&gt;689 hectares&lt;/td&gt;
+        &lt;td&gt;689 hectares&lt;/td&gt;
+        &lt;td&gt;688 hectares&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;The three alternatives are refined further, providing platforms for land plots in accordance with the planning parameters.  The range of platform sizes in the three alternatives can be compared in terms of minimum and maximum platform sizes, coefficient of variation etc - these statistics can be computed with the QGIS statistics tool.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Layout&lt;/td&gt;
+      &lt;td&gt;B4&lt;/td&gt;
+      &lt;td&gt;G8&lt;/td&gt;
+      &lt;td&gt;T6&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Minimum platform size&lt;/td&gt;
+      &lt;td&gt;6 hectares&lt;/td&gt;
+      &lt;td&gt;2.2 hectares&lt;/td&gt;
+      &lt;td&gt;2.3 hectares&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Maximum platform size&lt;/td&gt;
+      &lt;td&gt;65.4 hectares&lt;/td&gt;
+      &lt;td&gt;60.4 hectares&lt;/td&gt;
+      &lt;td&gt;60.7 hectares&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Median platform size&lt;/td&gt;
+      &lt;td&gt;24.3 hectares&lt;/td&gt;
+      &lt;td&gt;7.3 hectares&lt;/td&gt;
+      &lt;td&gt;8.5 hectares&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Coefficient of variation&lt;/td&gt;
+      &lt;td&gt;0.6&lt;/td&gt;
+      &lt;td&gt;1.0&lt;/td&gt;
+      &lt;td&gt;0.9&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Earthworks volume&lt;/td&gt;
+      &lt;td&gt;42 million cubic meters&lt;/td&gt;
+      &lt;td&gt;34 million cubic meters&lt;/td&gt;
+      &lt;td&gt;41 million cubic meters&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;G8 and T6 are similar in terms of the range of platforms.  B4 has bigger platforms by design.&lt;/p&gt;
+
+&lt;p&gt;In terms of earthworks volume, which is by far the major cost and a critical financial feasibility determining component in the development of the industrial park, layout G8 is the most optimal.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+		&lt;td width=&quot;48%&quot;&gt;
+			&lt;img src=&quot;/assets/img/Picture4.png&quot; alt=&quot;B4&quot; /&gt;
+			&lt;figcaption&gt; Layout B4 &lt;/figcaption&gt;
+		&lt;/td&gt;
+		&lt;td width=&quot;48%&quot;&gt;
+			&lt;img src=&quot;/assets/img/Picture5.png&quot; alt=&quot;G8&quot; /&gt;
+			&lt;figcaption&gt; Layout G8 &lt;/figcaption&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+	&lt;/tr&gt;
+
+	&lt;tr&gt;
+		&lt;td width=&quot;48%&quot;&gt;
+			&lt;img src=&quot;/assets/img/Picture6.png&quot; alt=&quot;T6&quot; /&gt;
+			&lt;figcaption&gt; Layout T6 &lt;/figcaption&gt;
+		&lt;/td&gt;
+	&lt;/tr&gt;
+&lt;/table&gt;</content><author><name>[&quot;Ong See Hai&quot;]</name></author><category term="tools" /><summary type="html">Industrial park master planning involves several stages of work: Planning Parameters Specification Existing Conditions Analysis Concept Formulation Concept Evaluation Concept Finalization Report Production</summary></entry><entry><title type="html">Industrial Park Layout Design Tools</title><link href="http://localhost:4000/general/2020/12/19/Tools-for-industrial-layout-design.html" rel="alternate" type="text/html" title="Industrial Park Layout Design Tools" /><published>2020-12-19T00:00:00+08:00</published><updated>2020-12-19T00:00:00+08:00</updated><id>http://localhost:4000/general/2020/12/19/Tools-for-industrial-layout-design</id><content type="html" xml:base="http://localhost:4000/general/2020/12/19/Tools-for-industrial-layout-design.html">&lt;p&gt;Industrial park layout design for hilly sites present many special problems that are different from that for flat sites.&lt;/p&gt;
 
 &lt;p&gt;Frequently, the development concept is to level an entire hilly site into one or several platforms. A very large volume of earthworks is involved and earthworks costs may render the project financially infeasible.&lt;/p&gt;
 
