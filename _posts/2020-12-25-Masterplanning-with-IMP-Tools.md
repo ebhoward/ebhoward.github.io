@@ -50,6 +50,7 @@ It is easy to understand why many planners are loathe to provide multiple altern
 
 <br>
 ![](/assets/img/adjustgradient.gif)
+<br>
 <br> Automated adjustment of road gradients and elevations
 <br>
 
