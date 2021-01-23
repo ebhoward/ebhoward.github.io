@@ -48,6 +48,11 @@ It is easy to understand why many planners are loathe to provide multiple altern
 ### IMP Tools
 [IMP Tools](/resources.html) support planners designing alternative layouts, especially for industrial sites in hilly terrain.   These tools automate some of the most time-consuming and computation-intensive design tasks such as creating road casings, adjusting road gradients over a network, calculating cut-and-fill earthworks volume, adjusting platform and road access point elevations etc. Work that usually take weeks can now be done in minutes or hours.  Within a short period of time, many alternative layouts can be developed, evaluated and compared.
 
+<br>
+![](/assets/img/adjustgradient.gif)
+<br> Automated adjustment of road gradients and elevations
+<br>
+
 
 A quick three-dimensional visualization tool shows the road gradients, platform elevation and slopes generated.  This visualization facilitates presentation and discussion between the planner and the client.  By exploring the quick 3D model the planner can better appreciate the physical environment formed by the roads, slopes and platforms and draw implications for urban design, truck movement, drainage and so forth.
 
